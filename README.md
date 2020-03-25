@@ -1,14 +1,12 @@
 # **RESTful API using Node.js**
 
-## **CONTENTS**
-
- 1. A RESTful API which used to switches strings between UPPER Case  and LOWER Case.
+1. A RESTful API which used to switches strings between UPPER Case  and LOWER Case.
  2. A client web application which works with the above API
 
 
 
 
-# HOW TO RUN
+# TO RUN
 clone  the poject
 		
 		git clone https://github.com/srajtr/WebAssignment.git
