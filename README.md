@@ -1,4 +1,4 @@
-# **RESTful API using Node.js and Client Application**
+# **RESTful API using Node.js**
 
 ## **CONTENTS**
 
