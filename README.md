@@ -1,6 +1,6 @@
 # **RESTful API using Node.js**
 
-1. A RESTful API which used to switches strings between UPPER Case  and LOWER Case.
+1. A RESTful API which is used to switch strings between UPPER Case and LOWER Case.
  2. A client web application which works with the above API
 
 
